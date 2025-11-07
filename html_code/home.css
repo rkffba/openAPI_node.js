@@ -1,0 +1,27 @@
+
+#case {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+
+    
+}
+/* #target3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+} */
+
+
+table {
+    border-collapse: collapse;
+    
+}
+tr, td {
+    border: 1px solid black;
+    padding: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
